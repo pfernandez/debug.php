@@ -5,7 +5,7 @@
            $var = "foo";
            echo "<pre style='font:14px Courier; padding:10px; border-radius:10px;";
            echo "color:#0E0; -webkit-box-shadow: 0 0 12px #000; margin:20px 0;";
-           echo "background:rgba(0,0,0,.8);'>"; var_dump($var); echo "</pre>";
+           echo "background:rgba(0,0,0,.9);'>"; var_dump($var); echo "</pre>";
   //                                                                             //
  /////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////
